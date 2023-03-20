@@ -1,6 +1,6 @@
 project:
   title: "Foundational Community Training"
-  type: website
+  type: book
   output-dir: docs
 
 book:
