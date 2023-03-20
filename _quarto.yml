@@ -1,0 +1,30 @@
+project:
+  title: "Foundational Community Training"
+  type: website
+  output-dir: docs
+
+book:
+  author: "Malvika Sharan"
+  date: "10/12/2021"
+  page-navigation: true
+  chapters:
+    - index.md
+    - logistics.qmd
+    - community-narrative.qmd
+    - cop-basic.qmd
+    - community-engagement.qmd
+    - community-charter.qmd
+    - References.qmd
+
+toc: true
+number-sections: false
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreport
+  epub:
+    cover-image:
+
+editor:
+  render-on-save: true

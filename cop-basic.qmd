@@ -1,0 +1,117 @@
+# Session 2: 🔤 Community of Practice Basics
+
+> *As a community, great things can happen when each individual contributes, according to their strengths, toward a common goal.* ― Idowu Koyenikan
+
+### Key lessons
+- Purpose and outcomes of your community 
+- Creating stakeholder map
+- Developing roles and responsibility documentation 
+- Community communication channels
+
+## Roll call
+
+- _ **Name/reflections from learning about your community and building a narrative - what was most surprising?** _
+- Participants response ...
+-
+-
+
+## 🖥 Part 2: Mapping Stakeholders and their engagement needs
+
+[**Link to the Google Slides**](https://docs.google.com/presentation/d/18kxCLkNEZBVfZ-IBMkE_Un0W67MBoEPbGabygMvqeRY/edit#slide=id.g13faa93073d_0_111)
+
+**Q1: Why invest in community building?**
+
+- Participants response ...
+-
+-
+
+**Q2: What are some good examples of community building have you experiences
+
+- Participants response ...
+-
+-
+
+### **2.1 Purpose and outcomes**
+
+*Each participants can create a table to add details from their projects.*
+
+| **Project/subproject Names** | **Purpose** | **Outcomes** |
+| --- | --- | --- |
+| | | |
+| | | |
+| | | |
+
+### **2.2 Identifying Stakeholders**
+
+| **Contributors** | **Role** | **Nature of participation** |
+| --- | --- | --- |
+| | | |
+| | | |
+| | | |
+
+### **2.3 Optional for projects with many stakeholders: Prioritising Stakeholders**
+
+![Stakeholder map example with four quadrants -  Keep satisfied (high power, low interest), Manage closely (high power, high interest), Inform regularly (low power, high interest), Monitor and anticipate needs (low power, low interest)](quarto_files/images/stakeholder-map-lucidspark.png)
+
+**Find templates for reuse:**
+
+- Lucidparks: [https://lucidspark.com/blog/a-guide-to-stakeholder-mapping](https://lucidspark.com/blog/a-guide-to-stakeholder-mapping)
+- Mural: [https://www.mural.co/templates/stakeholder-mapping](https://www.mural.co/templates/stakeholder-mapping)
+- Miro: [https://miro.com/templates/stakeholder-map/](https://miro.com/templates/stakeholder-map/)
+
+### **2.4 Resources and engagement/communication platforms**
+
+**Resources and infrastructure:**
+
+- Tools/platforms:
+- Documentation:
+- Infrastructure:
+- Events:
+- [Anything else?]
+
+**Types of engagement:**
+
+- Primary: GitHub
+- Asynchronous: Newsletter, talks, Slack, Twitter, documentation
+- Synchronous: Co-working calls, Collaboration Cafe, Book Dash
+- [Anything else?]
+
+**Notes**
+
+- Participants response ...
+-
+-
+
+### 📝 **Assignment 2 + Discussions:** [[MAKE A COPY] 2 - CoP Basics](https://docs.google.com/document/d/1r08Yu2tG8DcOiMpF6bbHrlgMRdePNxlWSRd3tvK7fcQ/edit?usp=sharing) **← [MAKE A COPY]**
+
+1. What is the purpose of your CoP or project? What are the main and expected outcomes of the project?
+2. Who are your stakeholders and what are their roles?
+3. How do you facilitate their participation, collaboration and contributions - what are the engagement and communication platforms?
+
+**Reading recommendation**
+
+- Research culture: let's reimagine how we work together: [https://wellcome.org/what-we-do/our-work/research-culture](https://wellcome.org/what-we-do/our-work/research-culture)
+
+**Note:**
+
+- The assignments from this session is for you to come back to, update and reflect on periodically, such as in the mid-year or annual review.
+- You can exchange this with other community managers to get some feedback.
+
+## 🏡 Key takeaways
+
+**In this session, we discussed the Mountain/Matrix of engagement to understand what different levels of engagement look like and how we facilitate that.**
+
+We explored questions and frameworks to understand these aspects:
+- How do we move from one level to another? When to recognise someone can move from one band to another?
+- Mountain of Engagement should be a living document, reflecting on what your community experiences are and where you should modify them.
+
+### Q&A and suggestions after the call - response will be shared through notes
+
+- Participants response ...
+-
+-
+
+### Feedback from this session
+
+_What worked? What didn't work? What would you change? What surprised you?_
+- Participants response ...
