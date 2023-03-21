@@ -4,7 +4,7 @@
 
 ## Key lessons
 - Purpose and outcomes of your community 
-- Creating stakeholder map
+- Creating a stakeholder map
 - Developing roles and responsibility documentation 
 - Community communication channels
 
@@ -15,11 +15,11 @@
 ### Let's first start by reflecting on these questions
 
 * Why invest in community building?
-* What are some good examples of community building have you experiences?
+* What are some good examples of community building have you experienced?
 
 ### **2.1 Purpose and outcomes**
 
-*Each participants can create a table to add details from their projects.*
+*Each participant can create a table to add details from their projects.*
 
 | **Project/subproject Names** | **Purpose** | **Outcomes** |
 | --- | --- | --- |
@@ -76,13 +76,12 @@
 
 **Note:**
 
-- The assignments from this session is for you to come back to, update and reflect on periodically, such as in the mid-year or annual review.
-- You can exchange this with other community managers to get some feedback.
+* The assignments from this session is for you to come back to, update and reflect on periodically, such as in the mid-year or annual review.
+* You can exchange this with other community managers to get some feedback.
 
 ## 🏡 Key takeaways
 
-**In this session, we discussed the Mountain/Matrix of engagement to understand what different levels of engagement look like and how we facilitate that.**
-
-We explored questions and frameworks to understand these aspects:
-- How do we move from one level to another? When to recognise someone can move from one band to another?
-- Mountain of Engagement should be a living document, reflecting on what your community experiences are and where you should modify them.
+In this session, we discussed:
+* How to map the purpose and outcome of your community
+* How to map stakeholders and their engagement in the project
+* how to enable that engagement through appropriate communications tools, channels and platforms

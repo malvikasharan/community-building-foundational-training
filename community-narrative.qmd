@@ -6,7 +6,7 @@
 
 - Understanding your community's narrative
 - Identifying the main stakeholders who hold historical knowledge about the community
-- Documenting the reason/purpose of the initial vision and where do the current stakeholders want to take the community
+- Documenting the reason/purpose of the initial vision and where the current stakeholders want to take the community
 
 ## 🖥 Part 1: Community and Community of Practice (CoP)
 
@@ -41,11 +41,11 @@ _ **In 2018 at a Data Study Group workshop, two industry leaders, one from acade
 **1. Why does the project need a community?**
 
 - What is your community project's story, who started it? Why is it important to build this community? - **What is the purpose?**
-- Reflecting on the status of your project, where next do you want to take your community/project? **What is the next step** , and what resources do you need to make that happen?
+- Reflecting on the status of your project, where next do you want to take your community/project? **What is the next step**, and what resources do you need to make that happen?
 
 **2. Why do you or those who started the project care about community and community/your role? Why would others join this community?**
 
-- There will be a combination of multiple reasons why you or those leading the project chose to support the community and community management. Let's start by sharing the reasons (from what you know about the project) that are most important to you?
+- There will be a combination of multiple reasons why you or those leading the project chose to support the community and community management. Let's start by sharing the reasons (from what you know about the project) that are most important to you.
 - What is one of the most rewarding community experiences you have had? (one that made you feel included or valued for your contribution/participation!) – Reflecting on your experiences, why do you think people will join your community? What experience do you want them to have?
 
 ### Aligning your community's 'purpose' with the organisation's motivation for community management
@@ -75,10 +75,8 @@ _Identify the origin story of the community that existed before you joined. Inte
 
 ## 🏡 Key takeaways
 
-**In this session, we discussed the concepts and purpose of community and community of practice mean.** 
-
 We reflected on the following aspects:
-- Why it is important to start with "Why", the original purpose of your community
-- Why did you or those who started the community care about community and community/your role
-- Why build a strong and authentics narrative for your community - reason why would others join this community
-- How to align your community's 'purpose' with the organisation's motivation for community management
+* Why it is important to start with "Why", the original purpose of your community
+* Why did you or those who started the community care about community and community/your role
+* Why build a strong and authentic narrative for your community - the reason why would others join this community
+* How to align your community's 'purpose' with the organisation's motivation for community management

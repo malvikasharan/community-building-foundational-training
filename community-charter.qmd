@@ -4,10 +4,10 @@
 
 ## Key lessons
 
-- Framing your community vision
-- Communicating your community mission
-- Defining roadmaps and milestones
-- Establishing ways of working
+* Framing your community vision
+* Communicating your community mission
+* Defining roadmaps and milestones
+* Establishing ways of working
 
 ## 🖥 Part 4: Personal and Organisation “Values” 
 
@@ -17,14 +17,14 @@
 
 ## Let's start with silent reflections and notetaking based the
 
-- Identify your core values (pick 3 for this session) based on this [list of personal core values](https://thehappinessplanner.co.uk/pages/list-of-core-values))
-- Choose one and define how you see it, Offer examples of your chosen value in action - share with others
+* Identify your core values (pick 3 for this session) based on this [list of personal core values](https://thehappinessplanner.co.uk/pages/list-of-core-values))
+* Choose one and define how you see it, Offer examples of your chosen value in action - share with others
 
 **Personal Reflections**
 
-- _How do your values align with the work you do?_
-- _How would you help a contributor align their values, vision and goal?_
-- _What will this discussion between you and them look like?_
+* How do your values align with the work you do?
+* How would you help a contributor align their values, vision and goal?
+* What will this discussion between you and them look like?
 
 ## Vision: Articulating your big ideas (for the future)
 
@@ -42,13 +42,13 @@ Writing something short and succinct can take more time than multiple sentences 
 
 ## Roadmap: an overview of the project's goals and outcomes presented on a timeline.
 
-- Roadmap is supplemented with details such as scope, resources, ways of working, risks
-- Roadmap does not provide task-level details. (For task-level details, see project charter).
-- Information gathered so far can be put together in a project charter, or maintained through separate documents. You can consider adding more details. (Prompts in the assignment)
+* Roadmap is supplemented with details such as scope, resources, ways of working, risks
+* Roadmap does not provide task-level details. (For task-level details, see project charter).
+* Information gathered so far can be put together in a project charter, or maintained through separate documents. You can consider adding more details. (Prompts in the assignment)
 
 ### Reflection for the future
 
-- *Let's discuss what is the definition of success for your communities in 6 months/12 months/2 years look like based on where you are right now.*
+*Let's discuss what is the definition of success for your communities in 6 months/12 months/2 years looks like based on where you are right now.*
 
 ## 📝 **Assignment 4 + Discussions:** 
 
@@ -58,8 +58,10 @@ Writing something short and succinct can take more time than multiple sentences 
 
 **Reading recommendation:**
 
-- [6-AuthenticPrinciplesCommEng.pdf](https://drive.google.com/file/d/1dzTWPNXwPCAMZJBiEBf0a4c_y9F3Bvk1/view?usp=sharing) _(reference:_ [_Principles of Authentic Community Engagement_](https://www.health.state.mn.us/communities/practice/resources/phqitoolbox/authenticprinciples.html) _- Minnesota Dept. of Health. (2014, September 28).)_
+* [6-AuthenticPrinciplesCommEng.pdf](https://drive.google.com/file/d/1dzTWPNXwPCAMZJBiEBf0a4c_y9F3Bvk1/view?usp=sharing) _(reference:_ [_Principles of Authentic Community Engagement_](https://www.health.state.mn.us/communities/practice/resources/phqitoolbox/authenticprinciples.html) _- Minnesota Dept. of Health. (2014, September 28).)_
 
 ## 🏡 Key takeaways
 
-**In this session, we learned how to build a community charter - emphasising the importance of building clarity in your work through writing.**
+In this session, we learned how to:
+* build a community charter 
+* ensure clarity in your work through transparent documentation
