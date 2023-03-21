@@ -82,6 +82,7 @@
 ## 🏡 Key takeaways
 
 In this session, we discussed:
+
 * How to map the purpose and outcome of your community
 * How to map stakeholders and their engagement in the project
 * how to enable that engagement through appropriate communications tools, channels and platforms

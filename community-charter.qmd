@@ -63,5 +63,6 @@ Writing something short and succinct can take more time than multiple sentences 
 ## 🏡 Key takeaways
 
 In this session, we learned how to:
+
 * build a community charter 
 * ensure clarity in your work through transparent documentation
