@@ -21,6 +21,7 @@ Here is a recommendation for participants to help with keeping this workshop ser
 
 ## Format
 
+- Lessons and shared documents are designed using examples from [Mozilla Open Leaders Programme](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/)
 - Each lesson has been designed for 1 hour.
 - Additional 20-30 minutes of the workshop sessions should be reserved for open discussion and sharing insights from our assignments with others.
 - Lessons are provided in a format that can be copied directly on a shared document for teaching purpose. 
