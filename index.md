@@ -1,5 +1,7 @@
 # Foundational Community Building and Engagement Training
 
+**DRAFT PRE-ALPHA VERSION FOR ONLINE WEBPAGE**
+
 > *We cannot expect to engage with and refer to communities unless we first support them to be built from the inside out. ‘Community’ should be understood as a verb, not a noun, in other words, it is the consequence of our efforts.* - Cormac Russell, Rikindling Democracy
 
 ## Building communities with a sense of purpose and belonging
@@ -7,7 +9,7 @@
 Community building is a process of enabling members in our communities to move from the position of spectators or users to developers and leaders in the project. 
 Community managers or members in community coordination roles identify and build meaningful pathways for everyone to gain access to the skills and resources they need to participate in the community. 
 They carry out project-specific technical roles alongside emergent and often non-quantifiable and invisible responsibilities in the community needed to make the quality and visible work of their communities effective. 
-These background works involve approaches for collaboration, maintenance, acknowledgement and capturing the impact of community members' work.
+These background works involve approaches for collaboration, maintenance, acknowledgement and capturing the impact of community members' work - skills that can be learned and systematically applied to all research work.
 
 This training material has been designed to discuss foundational skills through four modules, each designed for short-form project-based discussion:
 
