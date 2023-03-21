@@ -21,19 +21,37 @@ Here is a recommendation for participants to help with keeping this workshop ser
 
 ## Format
 
-- Each lesson has been desoigned for 1 hour.
+- Each lesson has been designed for 1 hour.
 - Additional 20-30 minutes of the workshop sessions should be reserved for open discussion and sharing insights from our assignments with others.
 - Lessons are provided in a format that can be copied directly on a shared document for teaching purpose. 
 - Each lesson has been paired with practical assignments to help learners reflect on the practices in the context of their projects.
 - Before each lesson, please provide details such as date, time and joining link for the session, and create a space for feedback (pluses and delta) and reflections (such as what was the main takeaway for participants personally, what was not clear) at the end of each session.
 
-### Join the call
+### Joining the call
 
 - Please inform participants if the presentation part of this call can be recorded for people who are unable to attend this session.
 - The discussion part should not be recorded to allow honest and open discussion.
 
+### Roll call
+
+For each session, I recommend using roll call with icebreaker question prompting reflections related to the content.
+Below are suggestion for each session:
+
+- Session 1 icebreaker question: *What is one characteristic about a community you most admire? Have you been able to replicate that for your project? If yes, how? If not, why not?*
+- Session 2 icebreaker question: *Reflections from learning about your community and building a narrative - what was most surprising?*
+- Session 3 icebreaker question: *Reflect on what you as a community builder/facilitator/participant bring into your community space and what do you receive+give back?** (kindness, empathy, professional expertise, resources, technical knowledge, mentorship etc.) / **Does this balance seem right?*
+- Session 4 icebreaker question: From the [LIST OF PERSONAL CORE VALUES](https://thehappinessplanner.co.uk/pages/list-of-core-values), select and share three values based on your currently work (this may change in the future)
+
+### Concluding the Session
+
+At the end of the shared document for each session - you can ask for two post session inputs:
+
+- Questions and suggestions (response can be shared asynchonously through notes)
+- Feedback from the sessions: _What worked? What didn't work? What would you change? What surprised you?
+
 ## Below are some potential topics for additional modules:
 
+- **Open Science/research framework**: applying open, equitable and participatory approaches for building communities
 - **Facilitating community events**: Good practices for online vs in person facilitation of community events
 - **Impact assessment and reporting**: What are some good practices and frameworks for impact assessment in the community, and how do we report them
 - **Conflict management** and handling a difficult situation

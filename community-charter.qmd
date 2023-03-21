@@ -2,26 +2,23 @@
 
 > *Values are the rules by which we live – the filters through which we evaluate possible actions, the base upon which we make decisions in support of the achievement of our collective and individual vision and purpose.* –_ Michael Cavanagh
 
-### Key lessons
+## Key lessons
 
 - Framing your community vision
 - Communicating your community mission
 - Defining roadmaps and milestones
 - Establishing ways of working
 
-### Roll call
+## 🖥 Part 4: Personal and Organisation “Values” 
 
-✏️ _ **Silent reflection 5 mins, exchange thoughts with the group** _
+[[Link to the Google slides]](https://docs.google.com/presentation/d/1JZt3HQMKg_6Eu3ctHH3PUv-9LgdTwFpyYhkrOwf5AUs/edit?usp=sharing)
 
-- **Identify your core values (pick 3)** ([LIST OF PERSONAL CORE VALUES](https://thehappinessplanner.co.uk/pages/list-of-core-values))
+"_A goal is not always meant to be reached, it often serves simply as something to aim at." ― Bruce Lee_
+
+## Let's start with silent reflections and notetaking based the
+
+- Identify your core values (pick 3 for this session) based on this [list of personal core values](https://thehappinessplanner.co.uk/pages/list-of-core-values))
 - Choose one and define how you see it, Offer examples of your chosen value in action - share with others
-
-_Name / Three Values (based on where you currently are - this may change in the future)_
-
-- Malvika / Accountability, **Transparency** , Kindness,
-- Participants response ...
--
--
 
 **Personal Reflections**
 
@@ -29,21 +26,19 @@ _Name / Three Values (based on where you currently are - this may change in the 
 - _How would you help a contributor align their values, vision and goal?_
 - _What will this discussion between you and them look like?_
 
-[[Link to the Google slides]](https://docs.google.com/presentation/d/1JZt3HQMKg_6Eu3ctHH3PUv-9LgdTwFpyYhkrOwf5AUs/edit?usp=sharing)
-
-"_A goal is not always meant to be reached, it often serves simply as something to aim at." ― Bruce Lee_
-
 ## Vision: Articulating your big ideas (for the future)
 
-### Prompts for vision
+Writing something short and succinct can take more time than multiple sentences - it can be iteratively improved with other stakeholders periodically.
 
-- What you are doing - Why you are doing this - the impact or change your project will bring - Who are users and contributors
+**Prompts for vision**
 
-## Mission:** Where you are right now, what your objectives are, what is next.
+> What you are doing - Why you are doing this - the impact or change your project will bring - Who are users and contributors
 
-### Prompts for Mission
+## Mission: Where you are right now, what your objectives are, what is next.
 
-- What the objectives are - What does your project offers and what makes it unique - What the next steps are (Process for community engagement and project development)
+**Prompts for Mission**
+
+> What the objectives are - What does your project offers and what makes it unique - What the next steps are (Process for community engagement and project development)
 
 ## Roadmap: an overview of the project's goals and outcomes presented on a timeline.
 
@@ -53,25 +48,13 @@ _Name / Three Values (based on where you currently are - this may change in the 
 
 ### Reflection for the future
 
-What is the definition of success for us in 6 months/12 months/2 years (based on where you are)?
+- *Let's discuss what is the definition of success for your communities in 6 months/12 months/2 years look like based on where you are right now.*
 
-**Shared notes/thoughts/insights**
+## 📝 **Assignment 4 + Discussions:** 
 
-- A vision statement can be hard to draft when other stakeholders are not in the same room
-- Writing something short and succinct can take more time than multiple sentences - it can be iteratively improved, but you need to start somewhere
-- Participants response ...
-- 
--
+* Identify your community's values and represent them in all processes (policies, guidelines, onboarding, decision-making, communication etc.) through intentional efforts for ensuring inclusion and diversity in your community.
 
-## 🏡 **Next steps: In your own time after the workshop!**
-
-_ **Integrating values and intentional efforts for inclusion and diversity in your project.** _
-
-**Before doing the assignment:**
-
-Identify your community's values and represent them in all processes (policies, guidelines, onboarding, decision-making, communication etc.)
-
-## 📝 **Assignment 4 + Discussions:** [4 - Community Vision, Mission, Roadmap, Charter](https://docs.google.com/document/d/1c5NDGUnVc-L5DPop3UvpgOw3XuZHrY5B1wQ9mBWWoXg/edit?usp=sharing)**← [Make a Copy]**
+[4 - Community Vision, Mission, Roadmap, Charter](https://docs.google.com/document/d/1c5NDGUnVc-L5DPop3UvpgOw3XuZHrY5B1wQ9mBWWoXg/edit?usp=sharing)**← [Make a Copy]**
 
 **Reading recommendation:**
 
@@ -80,15 +63,3 @@ Identify your community's values and represent them in all processes (policies, 
 ## 🏡 Key takeaways
 
 **In this session, we learned how to build a community charter - emphasising the importance of building clarity in your work through writing.**
-
-
-### Q&A and suggestions after the call - response will be shared through notes
-
-- Participants response ...
--
--
-
-### Feedback from this session
-
-_What worked? What didn't work? What would you change? What surprised you?_
-- Participants response ...

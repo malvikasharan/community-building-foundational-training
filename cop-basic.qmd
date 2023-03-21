@@ -2,34 +2,20 @@
 
 > *As a community, great things can happen when each individual contributes, according to their strengths, toward a common goal.* ― Idowu Koyenikan
 
-### Key lessons
+## Key lessons
 - Purpose and outcomes of your community 
 - Creating stakeholder map
 - Developing roles and responsibility documentation 
 - Community communication channels
 
-## Roll call
-
-- _ **Name/reflections from learning about your community and building a narrative - what was most surprising?** _
-- Participants response ...
--
--
-
 ## 🖥 Part 2: Mapping Stakeholders and their engagement needs
 
 [**Link to the Google Slides**](https://docs.google.com/presentation/d/18kxCLkNEZBVfZ-IBMkE_Un0W67MBoEPbGabygMvqeRY/edit#slide=id.g13faa93073d_0_111)
 
-**Q1: Why invest in community building?**
+### Let's first start by reflecting on these questions
 
-- Participants response ...
--
--
-
-**Q2: What are some good examples of community building have you experiences
-
-- Participants response ...
--
--
+* Why invest in community building?
+* What are some good examples of community building have you experiences?
 
 ### **2.1 Purpose and outcomes**
 
@@ -74,15 +60,11 @@
 - Primary: GitHub
 - Asynchronous: Newsletter, talks, Slack, Twitter, documentation
 - Synchronous: Co-working calls, Collaboration Cafe, Book Dash
-- [Anything else?]
+- *Let's discuss the other types of engagements you have implemented ...*
 
-**Notes**
+## 📝 **Assignment 2 + Discussions:** 
 
-- Participants response ...
--
--
-
-### 📝 **Assignment 2 + Discussions:** [[MAKE A COPY] 2 - CoP Basics](https://docs.google.com/document/d/1r08Yu2tG8DcOiMpF6bbHrlgMRdePNxlWSRd3tvK7fcQ/edit?usp=sharing) **← [MAKE A COPY]**
+[2 - Community of Practice Basics](https://docs.google.com/document/d/1r08Yu2tG8DcOiMpF6bbHrlgMRdePNxlWSRd3tvK7fcQ/edit?usp=sharing) **← [MAKE A COPY]**
 
 1. What is the purpose of your CoP or project? What are the main and expected outcomes of the project?
 2. Who are your stakeholders and what are their roles?
@@ -104,14 +86,3 @@
 We explored questions and frameworks to understand these aspects:
 - How do we move from one level to another? When to recognise someone can move from one band to another?
 - Mountain of Engagement should be a living document, reflecting on what your community experiences are and where you should modify them.
-
-### Q&A and suggestions after the call - response will be shared through notes
-
-- Participants response ...
--
--
-
-### Feedback from this session
-
-_What worked? What didn't work? What would you change? What surprised you?_
-- Participants response ...

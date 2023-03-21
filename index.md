@@ -1,27 +1,25 @@
 # Foundational Community Building and Engagement Training
 
-> *We cannot expect to engage with and refer to communities unless we first support them to be built from inside out. ‘Community’ should be understood as a verb, not a noun, in other words it is the consequence of our efforts.* - Cormac Russell, Rikindling Democracy
+> *We cannot expect to engage with and refer to communities unless we first support them to be built from the inside out. ‘Community’ should be understood as a verb, not a noun, in other words, it is the consequence of our efforts.* - Cormac Russell, Rikindling Democracy
 
 ## Building communities with a sense of purpose and belonging
 
-Hi everyone, I am Malvika Sharan.
-I am an Open Science practitioner with a strong focus and nudge towards community building.
-A lot of what I know and teach, comes from my experience working in Open Research projects - previously in bioinformatics and since 2019, in data science and research more broadly. 
-I explore and apply open research practices and approaches to transfer knowledge across different open source or community-led data science projects and also in 'not so open' research projects.
+Community building is a process of enabling members in our communities to move from the position of spectators or users to developers and leaders in the project. 
+Community managers or members in community coordination roles identify and build meaningful pathways for everyone to gain access to the skills and resources they need to participate in the community. 
+They carry out project-specific technical roles alongside emergent and often non-quantifiable and invisible responsibilities in the community needed to make the quality and visible work of their communities effective. 
+These background works involve approaches for collaboration, maintenance, acknowledgement and capturing the impact of community members' work.
 
-You can find more about me via my [homepage](https://malvikasharan.github.io/), and follow me on [Twitter](https://twitter.com/MalvikaSharan) for rare moments where I share something (which has reduced significantly in 2023!)
-
-## Topics Discussed in this Training Series
+This training material has been designed to discuss foundational skills through four modules, each designed for short-form project-based discussion:
 
 - **Module 1: 🚧** Community foundation: What is your community's story, who started it, what was the reason/purpose and where do we want to take it?
 - **Module 2: 🔤** Community of Practice basics: Purpose and outcomes, stakeholder mapping, roles and responsibility documentation and communication channels
 - **Module 3: 🗺** Community engagement: information mapping, a mountain of engagement, incentives and value-exchange
 - **Module 4: 📜** Creating and communicating your community charter: vision, mission, milestones, roadmap, ways of working
-- **Module 5: 🔓** Open Science/research framework: applying open, equitable and participatory approaches for building communities
 
 ## Contact 
 
-For any organisation-related queries or concerns, you can directly reach out to the project lead and author Malvika Sharan by emailing msharan@turing.ac.uk.
+For any organisation-related queries or concerns, you can directly reach out to me, Malvika Sharan, by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+You can find more about me via my [homepage](https://malvikasharan.github.io/), and follow me on [Twitter](https://twitter.com/MalvikaSharan) for rare moments where I share something (which has reduced significantly in 2023!)
 
 ## License and credits
 

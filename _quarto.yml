@@ -9,11 +9,11 @@ book:
   page-navigation: true
   chapters:
     - index.md
-    - logistics.qmd
     - community-narrative.qmd
     - cop-basic.qmd
     - community-engagement.qmd
     - community-charter.qmd
+    - logistics.qmd
     - References.qmd
 
 toc: true
