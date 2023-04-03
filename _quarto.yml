@@ -5,20 +5,22 @@ project:
 
 book:
   author: "Malvika Sharan"
-  date: "10/12/2021"
   page-navigation: true
+  search: true
+  repo-url: https://github.com/malvikasharan/community-building-foundational-training
+  date: "10/12/2021"
   downloads: epub
   cover-image: fcb-cover.jpg
   illustrator: The Turing Way and Scriberia
   chapters:
     - index.md
-    - community-narrative.qmd
-    - cop-basic.qmd
-    - community-engagement.qmd
-    - community-charter.qmd
-    - open-research-implementation.qmd
-    - logistics.qmd
-    - References.qmd
+    - community-narrative.md
+    - cop-basic.md
+    - community-engagement.md
+    - community-charter.md
+    - open-research-implementation.md
+    - logistics.md
+    # - references.md
 
 toc: true
 number-sections: false
