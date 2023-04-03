@@ -1,4 +1,4 @@
-# Foundational Community Building and Engagement Training
+# Foundational Community Building
 
 **DRAFT PRE-ALPHA VERSION FOR ONLINE WEBPAGE**
 

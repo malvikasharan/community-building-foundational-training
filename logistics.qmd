@@ -52,7 +52,7 @@ At the end of the shared document for each session - you can ask for two post-se
 
 ## Below are some potential topics for additional modules:
 
-- **Open Science/research framework**: applying open, equitable and participatory approaches for building communities
+- **Open Science/research implementation**: applying open, equitable and participatory approaches for building communities
 - **Facilitating community events**: Good practices for online vs in person facilitation of community events
 - **Impact assessment and reporting**: What are some good practices and frameworks for impact assessment in the community, and how do we report them
 - **Conflict management** and handling a difficult situation

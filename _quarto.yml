@@ -1,5 +1,5 @@
 project:
-  title: "Foundational Community Training"
+  title: "Foundational Community Building"
   type: book
   output-dir: docs
 
@@ -7,12 +7,16 @@ book:
   author: "Malvika Sharan"
   date: "10/12/2021"
   page-navigation: true
+  downloads: epub
+  cover-image: fcb-cover.jpg
+  illustrator: The Turing Way and Scriberia
   chapters:
     - index.md
     - community-narrative.qmd
     - cop-basic.qmd
     - community-engagement.qmd
     - community-charter.qmd
+    - open-research-implementation.qmd
     - logistics.qmd
     - References.qmd
 
