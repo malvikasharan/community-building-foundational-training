@@ -10,7 +10,7 @@
 - Developing roles and responsibility documentation 
 - Community communication channels
 
-## 🖥 Part 2: Mapping Stakeholders and their engagement needs
+## 🖥 Part 2.1: Mapping Stakeholders and their engagement needs
 
 [**Link to the Google Slides**](https://docs.google.com/presentation/d/18kxCLkNEZBVfZ-IBMkE_Un0W67MBoEPbGabygMvqeRY/edit#slide=id.g13faa93073d_0_111)
 
@@ -19,7 +19,7 @@
 * Why invest in community building?
 * What are some good examples of community building have you experienced?
 
-### **2.1 Purpose and outcomes**
+### **Purpose and outcomes**
 
 *Each participant can create a table to add details from their projects.*
 
@@ -29,7 +29,7 @@
 | | | |
 | | | |
 
-### **2.2 Identifying Stakeholders**
+### **Identifying Stakeholders**
 
 | **Contributors** | **Role** | **Nature of participation** |
 | --- | --- | --- |
@@ -37,7 +37,13 @@
 | | | |
 | | | |
 
-### **2.3 Optional for projects with many stakeholders: Prioritising Stakeholders**
+### **2.2 Optional for projects with many stakeholders: Prioritising Stakeholders**
+
+[**Link to the Google Slides**](https://docs.google.com/presentation/d/1BO-_VtRL-WrcpoEzSv_4ZCcEEg8QaZepeRGx6rB9grQ/edit#slide=id.g1072083f421_1_0)
+
+Anybody who can affect or is affected by an organisation, project, community or the processes and strategy they use.
+Identifying who they, how they engage and what they need to affect changes is crucial for the success of a project.
+
 
 ![Stakeholder map example with four quadrants -  Keep satisfied (high power, low interest), Manage closely (high power, high interest), Inform regularly (low power, high interest), Monitor and anticipate needs (low power, low interest)](quarto_files/images/stakeholder-map-lucidspark.png)
 
@@ -51,7 +57,7 @@
 - Mural: [https://www.mural.co/templates/stakeholder-mapping](https://www.mural.co/templates/stakeholder-mapping)
 - Miro: [https://miro.com/templates/stakeholder-map/](https://miro.com/templates/stakeholder-map/)
 
-### **2.4 Resources and engagement/communication platforms**
+### **2.3 Resources and engagement/communication platforms**
 
 **Resources and infrastructure:**
 
@@ -59,6 +65,8 @@
 - Documentation:
 - Infrastructure:
 - Events:
+- Opportunities: 
+- Agency and decision-making power: 
 - [Anything else?]
 
 **Types of engagement:**
